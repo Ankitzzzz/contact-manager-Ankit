@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "contacts-backend",
+  "version": "1.0.0",
+  "description": "Contacts Manager Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "cors": "^2.8.5"
+=======
+  "dependencies": {
+    "express": "^5.2.1"
+>>>>>>> 0373cbb (Add frontend part of Contacts Manager)
+  }
+}
